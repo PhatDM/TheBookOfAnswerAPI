@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\ASP.Net\\TheBookOfAnswers\\API\\TheBookOfAnswersAPI\\TheBookOfAnswerAPI\\TheBookOfAnswerAPI.csproj",
+      "projectUniqueName": "c:\\Dev\\TheBookOfAnswers\\Git\\API\\TheBookOfAnswer\\TheBookOfAnswerAPI.csproj",
       "projectName": "TheBookOfAnswerAPI",
-      "projectPath": "C:\\Dev\\ASP.Net\\TheBookOfAnswers\\API\\TheBookOfAnswersAPI\\TheBookOfAnswerAPI\\TheBookOfAnswerAPI.csproj",
+      "projectPath": "c:\\Dev\\TheBookOfAnswers\\Git\\API\\TheBookOfAnswer\\TheBookOfAnswerAPI.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\ASP.Net\\TheBookOfAnswers\\API\\TheBookOfAnswersAPI\\TheBookOfAnswerAPI\\obj\\",
+      "outputPath": "c:\\Dev\\TheBookOfAnswers\\Git\\API\\TheBookOfAnswer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,11 @@
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\TheBookOfAnswerAPI.exe
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\appsettings.json
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\TheBookOfAnswerAPI.dll
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\TheBookOfAnswerAPI.deps.json
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\TheBookOfAnswerAPI.runtimeconfig.json
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\TheBookOfAnswerAPI.pdb
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\TheBookOfAnswers\Git\API\TheBookOfAnswer\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
