@@ -1,6 +1,0 @@
-@TheBookOfAnswerAPI_HostAddress = http://localhost:5140
-
-GET {{TheBookOfAnswerAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
